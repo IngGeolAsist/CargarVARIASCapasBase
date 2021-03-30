@@ -2,6 +2,8 @@
 ## Ya hemos visto como cargar UNA sola capa base, sin embargo, dependiendo de las necesidades nuestras y de los usuarios del mapa, será muy común tener que incluir mas de una capa base. En este video describiremos la metodología a seguir.
 ### Primero Ingresaremos nuevamente al catálogo de capas base, en la siguiente página https://leaflet-extras.github.io/leaflet-providers/preview/ 
 
+![screenshot](https://raw.githubusercontent.com/sampach95/CargarVARIASCapasBase/master/img/catalogo.png)
+
 ### Seleccionaremos una o dos capas más aparte de la que incluimos previamente. En mi caso seleccione la capa de OSM de Topografía y la capa de ESRI de imágenes de satélite, copiamos las líneas de código correspondientes y pegamos en el archivo HTML de nuestro proyecto.
 
 ``` html
@@ -97,3 +99,7 @@ Finalmente añadimos al mapa.
 
 
 ### Ejecutamos en el navegador de nuestra preferencia y podremos observar en la esquina superior izquierda, que se incluyó un nuevo botón en el que esta alojado nuestro controlador y ya podremos usarlo sin ningún problema. 
+![screenshot](https://raw.githubusercontent.com/sampach95/CargarVARIASCapasBase/master/img/topo.png)
+![screenshot](https://raw.githubusercontent.com/sampach95/CargarVARIASCapasBase/master/img/osm.png)
+![screenshot](https://raw.githubusercontent.com/sampach95/CargarVARIASCapasBase/master/img/satelital.png)
+Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
