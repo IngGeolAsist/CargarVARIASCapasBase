@@ -105,4 +105,4 @@ Finalmente añadimos al mapa.
 
 Siguiente Tutorial https://github.com/sampach95/Puntos
 
-Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
+Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/IngGeolAsist/ComoCrearMapasEnLaWebConLeaflet
