@@ -103,6 +103,6 @@ Finalmente añadimos al mapa.
 ![screenshot](https://raw.githubusercontent.com/sampach95/CargarVARIASCapasBase/master/img/osm.png)
 ![screenshot](https://raw.githubusercontent.com/sampach95/CargarVARIASCapasBase/master/img/satelital.png)
 
-Siguiente Tutorial https://github.com/sampach95/Puntos
+Siguiente Tutorial https://github.com/IngGeolAsist/Puntos
 
 Haz click en el siguiente enlace para volver a la pagina inicial https://github.com/IngGeolAsist/ComoCrearMapasEnLaWebConLeaflet
